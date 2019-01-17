@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">Material Login Example</string>
+    <string name="app_name">Material</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="logo">Alter name logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">No account yet? Create one</string>
 </resources>
